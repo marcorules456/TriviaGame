@@ -1,0 +1,61 @@
+.questions {
+	background-color: orange;
+	border-bottom:2px solid black;
+	font-family:havana;
+	
+}
+.questions h1 {
+	text-align:center;
+	
+}
+#rules p{
+	text-align:center;
+	color:#f4f4f4;
+	font-size:23px;
+	
+	
+}
+.right {
+	text-align:center;
+	margin:20px;
+	width:14%;
+}
+.wrong {
+	text-align:center;
+	margin:20px;
+	width:14%;
+}
+.jumbotron {
+	text-align:center;
+	background-color:purple;
+	color:#f4f4f4;
+}
+button {
+	border:black 3px solid;
+	background-color: navy;
+	color:white;
+	font-family:fantasy;
+	font-size:20px;
+}
+
+
+p {
+	font-size:47px;
+	text-align:left;
+	font-family: georgian;
+	color: navy;
+	font-weight:bold;
+}
+#title {
+	background-color: black;
+	color:#f4f4f4;
+	text-align:center;
+}
+body {
+	background-color: purple;
+	font-family: fantasy;
+}
+.questions p {
+	margin-left:10%;
+	
+}
